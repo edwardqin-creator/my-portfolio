@@ -13,5 +13,5 @@ const githubPagesSpaFallback = () => ({
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), githubPagesSpaFallback()],
-  base: '/edward-portfolio/',
+  base: '/my-portfolio/',
 })
